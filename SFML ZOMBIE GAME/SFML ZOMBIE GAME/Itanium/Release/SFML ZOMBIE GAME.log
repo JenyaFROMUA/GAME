@@ -1,0 +1,14 @@
+﻿Build started 27.12.2013 23:56:30.
+     1>Project "C:\Users\Jenya\Documents\Visual Studio 2010\Projects\SFML ZOMBIE GAME\SFML ZOMBIE GAME\SFML ZOMBIE GAME.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Itanium\Release\SFML ZOMBIE GAME.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_ia64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jenya\Documents\Visual Studio 2010\Projects\SFML ZOMBIE GAME\Itanium\Release\SFML ZOMBIE GAME.exe" /NOLOGO /LIBPATH:D:\SFML32\lib "sfml-graphics-s.lib" "sfml-window-s.lib" "sfml-system-s.lib" "sfml-audio-s.lib" "sfml-main.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Itanium\Release\SFML ZOMBIE GAME.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:\Users\Jenya\Documents\Visual Studio 2010\Projects\SFML ZOMBIE GAME\Itanium\Release\SFML ZOMBIE GAME.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jenya\Documents\Visual Studio 2010\Projects\SFML ZOMBIE GAME\Itanium\Release\SFML ZOMBIE GAME.lib" /MACHINE:IA64 Itanium\Release\main_cpp.obj
+     1>sfml-graphics-s.lib(RenderStates.cpp.obj) : fatal error LNK1112: module machine type 'X86' conflicts with target machine type 'IA64'
+     1>Done Building Project "C:\Users\Jenya\Documents\Visual Studio 2010\Projects\SFML ZOMBIE GAME\SFML ZOMBIE GAME\SFML ZOMBIE GAME.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.49

@@ -1,0 +1,11 @@
+﻿Build started 27.12.2013 23:37:18.
+     1>Project "C:\Users\Jenya\Documents\Visual Studio 2010\Projects\SFML ZOMBIE GAME\SFML ZOMBIE GAME\SFML ZOMBIE GAME.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ID:\SFML32\include /ZI /nologo /W3 /WX- /Od /Oy- /D SFML_STATIC /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main_cpp.cpp
+         Skipping... (no relevant changes detected)
+         main_cpp.cpp
+     1>Done Building Project "C:\Users\Jenya\Documents\Visual Studio 2010\Projects\SFML ZOMBIE GAME\SFML ZOMBIE GAME\SFML ZOMBIE GAME.vcxproj" (ClCompile target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.26
